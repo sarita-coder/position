@@ -1,0 +1,100 @@
+/* Inserta tu CSS aqui */
+body {
+	margin: 0;
+	padding: 0px;
+}
+
+.pink {
+	background: #ee3e64;
+	height: 200px;
+	width: 200px;
+}
+
+.blue {
+	background: #44accf;
+	height: 200px;
+	width: 200px;
+}
+.green {
+	background: #b7d84b;
+	height: 200px;
+	width: 200px;
+}
+
+.yellow {
+	background: yellow;
+	height: 200px;
+	width: 200px;
+}
+
+#puno { position: static;}
+#guno { position: static;}
+#buno { position: static;}
+
+
+#pdos{ position: relative;}
+#gdos{ position: relative;}
+#bdos{ position: relative;}
+
+#btres {
+	position: relative;
+	left: 200px;
+}
+
+#cjcinco {
+	position: relative;
+	height: 800px;
+	width: 800px;
+}
+
+#pcinco {position: absolute;
+left: 0px;
+top: 0px;
+}
+
+
+#gcinco {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+
+}
+
+#bcinco {
+	position: absolute;
+	right: 0px;
+	top:0px;
+}
+
+#ycinco {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#bseis {
+	position: absolute;
+	left: 200px;
+}
+#bsiete {
+	position: relative;
+	left: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
